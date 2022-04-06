@@ -1,6 +1,7 @@
-# Nathan Marcellous - Software Engineer & Web Developer
+# 👋 Hello everyone, I'm Nathan Marcellous AKA TabuHana 
+## 🤓 I'm a Software Engineer & Web Developer
 ***
-### Pronouns: He/Him
+#### Pronouns: He/Him
 
 ## - 💻 Some of my projects include:
    - AmiiBo Locator (https://bsandfer.github.io/amiibo-locator/)
@@ -12,9 +13,13 @@
    - A single-player platformer adventure game, name TBD
 
 ## - 📚 I am 
-   - A student, studying computer science.
+   - A student, studying computer science at MiraCosta College & UCI BootCamp.
    - Passionate and eager to learn new things.
    - A creative and hardworking individual.
    - A team player.
 
 📫 To Contact Me: nate31196@outlook.com
+
+📙 Find Me At: [Linkedin](https://www.linkedin.com/in/nathaniel-marcellous-832291229/)
+
+🐦Social: [Twitter](https://twitter.com/Tabu_Hana9)
