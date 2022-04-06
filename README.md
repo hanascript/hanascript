@@ -4,9 +4,9 @@
 #### Pronouns: He/Him
 
 ## - 💻 Some of my projects include:
-   - AmiiBo Locator (https://bsandfer.github.io/amiibo-locator/)
-   - QuickCook (https://bootcamp-project-2-quickcook.herokuapp.com)
-   - Random Password Generator (https://tabuhana.github.io/Random-Password-Generator/)
+   - [AmiiBo Locator](https://bsandfer.github.io/amiibo-locator/)
+   - [QuickCook](https://bootcamp-project-2-quickcook.herokuapp.com)
+   - [Random Password Generator](https://tabuhana.github.io/Random-Password-Generator/)
 
 ## - 💬 I am currently working on:
    - A healthy eating and exercise app, name TBD
