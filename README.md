@@ -23,3 +23,5 @@
 📙 Find Me At: [Linkedin](https://www.linkedin.com/in/nathaniel-marcellous-832291229/)
 
 🐦Social: [Twitter](https://twitter.com/Tabu_Hana9)
+
+👾Discord: tabu#0009
