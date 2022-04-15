@@ -1,5 +1,5 @@
 # 👋 Hello everyone, I'm Nathan Marcellous AKA TabuHana 
-## 🤓 I'm a Software Engineer & Web Developer
+## 🤓 I'm a Software Engineer & Full-Stack Web Developer
 
 #### Pronouns: He/Him
 
