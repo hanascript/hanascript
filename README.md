@@ -1,4 +1,4 @@
-# 👋 Hello everyone, I'm Nathan Marcellous AKA TabuHana 
+# 🌸 Hello everyone, I'm Nathan Marcellous AKA TabuHana 
 ## 🤓 I'm a Junior Software Engineer & Full-Stack Web Developer
 
 #### Pronouns: He/Him
