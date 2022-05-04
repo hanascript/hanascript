@@ -4,17 +4,15 @@
 ## - 💻 Some of my projects include:
    - [AmiiBo Locator](https://bsandfer.github.io/amiibo-locator/)
    - [QuickCook](https://bootcamp-project-2-quickcook.herokuapp.com)
-   - [Random Password Generator](https://tabuhana.github.io/Random-Password-Generator/)
 
-## - 💬 I am currently working on:
+## - 💬 Projects I'm working on in my free time:
    - A healthy eating and exercise app, name TBD
-   - A single-player platformer adventure game, name TBD
+   - A educational app for learning League of Legends, name TBD
 
 ## - 📚 I am 
-   - A student, studying computer science at MiraCosta College & UCI BootCamp.
-   - Passionate and eager to learn new things.
-   - A creative and hardworking individual.
-   - A team player.
+   - Eager to learn new things. Constantly looking for new technologies to learn.
+   - An open thinker. Always searching for new and creative solutions to complex problems.
+   - A co-operative person. Putting team work and communication first.
 
 📫 To Contact Me: nathanmarcellous3@gmail.com
 
