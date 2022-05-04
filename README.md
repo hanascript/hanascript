@@ -1,7 +1,7 @@
 # Hello, I'm Nathan Marcellous
 ## I'm a Junior Software Engineer
 
-## - 💻 Some of my projects include:
+## - 💻 Projects I've worked on:
    - [AmiiBo Locator](https://bsandfer.github.io/amiibo-locator/)
    - [QuickCook](https://bootcamp-project-2-quickcook.herokuapp.com)
 
