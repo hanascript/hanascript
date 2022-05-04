@@ -1,7 +1,5 @@
-# 🌸 Hello everyone, I'm Nathan Marcellous AKA TabuHana 
-## 🤓 I'm a Junior Software Engineer & Full-Stack Web Developer
-
-#### Pronouns: He/Him
+# Hello, I'm Nathan Marcellous
+## I'm a Junior Software Engineer
 
 ## - 💻 Some of my projects include:
    - [AmiiBo Locator](https://bsandfer.github.io/amiibo-locator/)
@@ -21,7 +19,3 @@
 📫 To Contact Me: nate31196@outlook.com
 
 📙 Find Me At: [Linkedin](https://www.linkedin.com/in/nathaniel-marcellous-832291229/)
-
-🐦Social: [Twitter](https://twitter.com/Tabu_Hana9)
-
-👾Discord: tabu#0009
