@@ -1,6 +1,6 @@
 # Hello, I'm Nathan
 
-I'm a Software Developer. I enjoy building applications that can be used to solve everyday problems.
+I'm a Full-Stack Software Developer. I enjoy building applications that can be used to solve everyday problems.
 <hr>
 
 ### Check out my most recent project [QuickCook](https://bootcamp-project-2-quickcook.herokuapp.com)
