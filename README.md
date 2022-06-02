@@ -5,9 +5,9 @@ I'm a Full-Stack Software Developer. I enjoy building applications that can be u
 
 ### Check out my most recent project [QuickCook](https://bootcamp-project-2-quickcook.herokuapp.com)
 
-   - Working on: [Healthy Eating and Excercise App](https://bsandfer.github.io/amiibo-locator/)
-   - Currently studying: Solidity
-   - Looking to: Expand my knowledge into React
+   - Working on: [Bug Tracker App]
+   - Currently studying: Angular
+   - Looking to: Expand my knowledge in React
    - Find Me At: [linkedin.com/in/nathaniel-marcellous](https://www.linkedin.com/in/nathaniel-marcellous/)
 
 ### Technical Skills:
