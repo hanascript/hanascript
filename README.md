@@ -11,7 +11,7 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
    - League of Legends enjoyer
    - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
-      <img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 
 ### Technical Skills:
@@ -41,4 +41,4 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 <img alt="React.js" src="https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png">
 <img alt="Node.js/Express" src="https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png">
 </p>
-<img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&label=profile visitors 👋" />
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&label=profile visitors 👋" />
