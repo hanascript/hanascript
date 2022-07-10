@@ -10,7 +10,7 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
    - Always trying to expand my knowledge in Next.js using Typescript ⚛
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
    - League of Legends enjoyer
-   - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
+   - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/" target="_blank">
       <img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 
