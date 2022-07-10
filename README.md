@@ -5,13 +5,14 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 
 ### Check out my most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) !
 
-   - Working on TABERU.gg & a Store Stock App 👷‍♂️
-   - Studying Data Structures and Python ☕
+   - Working on [TABERU](https://github.com/TabuHana/taberu) &  [inventory-cms](https://github.com/TabuHana/inventory-cms) 👷‍♂️
+   - Studying Data Structures & Python ☕
    - Always trying to expand my knowledge in Next.js using Typescript ⚛
-   
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
    - League of Legends enjoyer
-   - [I have a Linkedin](https://www.linkedin.com/in/nathaniel-marcellous/)
+   - I have a: <a href="https://www.linkedin.com/in/nathaniel-marcellous/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
 
 ### Technical Skills:
 <p align="left">
@@ -33,8 +34,11 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 <br>
 
 <hr>
-<img align="left" alt="HTML/CSS" src="https://user-images.githubusercontent.com/39642290/169638568-21dffd5b-8707-43e7-a60a-6dfc53543638.png">
-<img align="left" alt="JavaScript/JQuery" src="https://user-images.githubusercontent.com/39642290/169638569-6c4e5c2e-2bc3-4567-84eb-9c1df6541fdd.png">
-<img align="left" alt="SQL/noSQL Databases" src="https://user-images.githubusercontent.com/39642290/169638557-53057cdf-69ed-4c11-8939-029fe136d7cb.png">
-<img align="left" alt="React.js" src="https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png">
-<img align="left" alt="Node.js/Express" src="https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png">
+<p align="left">
+<img alt="HTML/CSS" src="https://user-images.githubusercontent.com/39642290/169638568-21dffd5b-8707-43e7-a60a-6dfc53543638.png">
+<img alt="JavaScript/JQuery" src="https://user-images.githubusercontent.com/39642290/169638569-6c4e5c2e-2bc3-4567-84eb-9c1df6541fdd.png">
+<img alt="SQL/noSQL Databases" src="https://user-images.githubusercontent.com/39642290/169638557-53057cdf-69ed-4c11-8939-029fe136d7cb.png">
+<img alt="React.js" src="https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png">
+<img alt="Node.js/Express" src="https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png">
+</p>
+<img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&label=profile visitors 👋" />
