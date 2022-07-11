@@ -6,7 +6,7 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 ### Check out my most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) !
 
    - Working on [TABERU](https://github.com/TabuHana/taberu) &  [inventory-cms](https://github.com/TabuHana/inventory-cms) 👷‍♂️
-   - Studying Data Structures & Python ☕
+   - Studying Data Structures, Python & Accessibility ☕
    - Always trying to expand my knowledge in Next.js using Typescript ⚛
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
    - League of Legends enjoyer
