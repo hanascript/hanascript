@@ -9,6 +9,7 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
    - Studying Data Structures, Python & Accessibility ☕
    - Always trying to expand my knowledge in Next.js using Typescript ⚛
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
+   - Fun fact: I do know Java, C++ & Python, but my main focus is currently Javascript 👍
    - League of Legends enjoyer
    - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
       <img alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +17,6 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 
 ### Technical Skills:
 <p align="left">
-<img alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
