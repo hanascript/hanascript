@@ -1,12 +1,13 @@
-# Hello, I'm Nathan 🐕🌸
+# Hello 🐕🌸
 
 I'm a Full-Stack Software Developer. I like to build applications ❤
 <hr>
 
-### Check out my most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) !
+## [Blog](https://temp-blog-eight.vercel.app/)
 
-   - Working on [TABERU](https://github.com/TabuHana/taberu) &  [inventory-cms](https://github.com/TabuHana/inventory-cms) 👷‍♂️
-   - Studying Data Structures, Python & Accessibility ☕
+### most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) 
+
+   - Studying Data Structures, React/Next & Python  ☕
    - Always trying to expand my knowledge in Next.js using Typescript ⚛
    - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
    - Fun fact: I do know Java, C++ & Python, but my main focus is currently Javascript 👍
@@ -18,10 +19,10 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 ### Technical Skills:
 <p align="left">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="mySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
