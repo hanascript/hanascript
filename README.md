@@ -8,8 +8,8 @@ I'm a Full-Stack Software Developer. I like to build applications ❤
 ### most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) 
 
    - Studying Data Structures, React/Next & Python  ☕
-   - Always trying to expand my knowledge in Next.js using Typescript ⚛
-   - Favorite stack is [T3 Stack](https://create.t3.gg/) 😊
+   - Currently checking out Angular & Vue ⚛
+   - Favorite stack is [T3 Stack](https://create.t3.gg/) !
    - Fun fact: I do know Java, C++ & Python, but my main focus is currently Javascript 👍
    - League of Legends enjoyer
    - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
