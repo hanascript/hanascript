@@ -1,16 +1,13 @@
 # Hello 🐕🌸
 
-I'm a Full-Stack Software Developer. I like to build applications ❤
+Junior Software Developer
 <hr>
 
 ## [Blog](https://temp-blog-eight.vercel.app/)
 
 ### most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) 
 
-   - Studying Data Structures, React/Next & Python  ☕
-   - Currently checking out Angular & Vue ⚛
-   - Favorite stack is [T3 Stack](https://create.t3.gg/) !
-   - Fun fact: I do know Java, C++ & Python, but my main focus is currently Javascript 👍
+   - My main Javascript 👍
    - League of Legends enjoyer
    - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
       <img alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
