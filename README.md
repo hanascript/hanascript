@@ -3,13 +3,10 @@
 Junior Software Developer
 <hr>
 
-## [Blog](https://temp-blog-eight.vercel.app/)
-
-### most recent project [Crypto Follower](https://cryptofollower-ca7ce.web.app/) 
-
-   - My main Javascript 👍
+   - Javascript 👍
+   - Daily learner & always pushing to be better
    - League of Legends enjoyer
-   - I have a ~<a href="https://www.linkedin.com/in/nathaniel-marcellous/">
+   <a href="https://www.linkedin.com/in/nathaniel-marcellous/">
       <img alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 
