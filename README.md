@@ -30,4 +30,4 @@
 <img alt="React.js" src="https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png">
 <img alt="Node.js/Express" src="https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png">
 </p>
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&label=profile visitors 👋" />
+<!-- <img alt="profile views" src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&label=profile visitors 👋" /> -->
