@@ -95,7 +95,7 @@
    <summary>𝐸𝓋𝑒𝓇𝓎𝓉𝒽𝒾𝓃𝑔 𝐸𝓁𝓈𝑒</summary>
    <p align="left">
       <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-      <a href="https://github.com/TabuHana" target="_blank"><img alt="Github" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+      <a href="https://github.com/TabuHana" target="_blank"><img alt="Github" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
       <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
       <a href="https://code.visualstudio.com/" target="_blank"><img alt="VsCode" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
       <a href="https://www.blender.org/" target="_blank"><img alt="Blender" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a>
