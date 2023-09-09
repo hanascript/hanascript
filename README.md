@@ -105,4 +105,20 @@
 
 <hr>
 
+<details>
+   <summary>𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗱 𝗺𝘆 𝗰𝗼𝗺𝗺𝗶𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀</summary>
+   <p>I try to use a style of semmantic commit messages for all of my commits in my repo~</p>
+   Format: <code>type(optional scope): subject</code>
+   <ul align = "left">
+      <li><code>feat:</code> new feature for the user, not a new feature for build script</li>
+      <li><code>fix:</code> bug fix for the user, not a fix to a build script</li>
+      <li><code>docs:</code> changes to the documentation</li>
+      <li><code>style:</code> formatting, missing semi colons, etc; no production code change</li>
+      <li><code>refactor:</code> refactoring production code, eg. renaming a variable</li>
+      <li><code>test:</code> adding missing tests, refactoring tests; no production code change</li>
+      <li><code>chore:</code> updating grunt tasks etc; no production code change</li>
+      <li><code>build:</code> update for the build script, not a new update for the user</li>
+   </ul>
+</details>
+
 
