@@ -120,6 +120,7 @@
       <li><code>test:</code> adding missing tests, refactoring tests; no production code change</li>
       <li><code>chore:</code> updating grunt tasks etc; no production code change</li>
       <li><code>build:</code> update for the build script, not a new update for the user</li>
+      <li><code>q:</code> Random, misc or comment messages for other branches</li>
    </ul>
    <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716" target="_blank">Additional references here!</a>
 </details>
