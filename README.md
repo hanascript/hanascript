@@ -109,6 +109,8 @@
    <summary>𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗱 𝗺𝘆 𝗰𝗼𝗺𝗺𝗶𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀</summary>
    <p>I try to use a style of semmantic commit messages for all of my commits in my repo~</p>
    Format: <code>type(optional scope): subject</code>
+   <br/>
+   <br/>
    <ul align = "left">
       <li><code>feat:</code> new feature for the user, not a new feature for build script</li>
       <li><code>fix:</code> bug fix for the user, not a fix to a build script</li>
@@ -119,6 +121,7 @@
       <li><code>chore:</code> updating grunt tasks etc; no production code change</li>
       <li><code>build:</code> update for the build script, not a new update for the user</li>
    </ul>
+   <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716" target="_blank">Additional references here!</a>
 </details>
 
 
