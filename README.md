@@ -19,12 +19,12 @@
 
 <strong>✧･ﾟ: *✧･ﾟ:* Career Goals *:･ﾟ✧*:･ﾟ✧</strong>
 
-- I'm interested in building my skills as a programmer, mainly focusing on web development
-- Eager for a profession web dev role at an established company
+- Building my skills as a programmer with a focus on web dev
+- A professional web dev role at an established company
 
 <strong>✧˖°.⁺‧˚ Collaborate ˚‧⁺ ✧˖°.</strong>
 
-- I'm looking to collaborate on full stack web development projects using Javascript
+- I'm looking to collaborate on full stack web development projects using Typescript
 - Please feel free to reach out to me at nate31196@outlook.com
 <img alt="profile views" src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&&label=profile visitors" />
 
