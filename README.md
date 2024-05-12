@@ -26,8 +26,8 @@
 
 - I'm looking to collaborate on full stack web development projects using Typescript
 - Please feel free to reach out to me at nate31196@outlook.com
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4&&label=profile visitors" />
 
+<img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
 
 <!-- Cert Section -->
@@ -50,22 +50,20 @@
 <details>
    <summary>𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</summary>
    <p align="left">
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
    </p>
 </details>
 
 <details>
    <summary>ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</summary>
    <p align="left">
-      <a href="https://react.dev/" target="_blank"><img alt="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
       <a href="https://nextjs.org/" target="_blank"><img alt="NextJS" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+      <a href="https://react.dev/" target="_blank"><img alt="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwindcss" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>       
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
       <a href="https://www.figma.com/" target="_blank"><img alt="Figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
-      <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank"><img alt="AdobeXd" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" /></a>
-      <a href="https://mui.com/" target="_blank"><img alt="Material-UI" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwindcss" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>       
    </p>
 </details>
 
@@ -76,6 +74,7 @@
       <a href="https://expressjs.com/" target="_blank"><img alt="Express" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
       <a href="https://dev.mysql.com/doc/" target="_blank"><img alt="MySQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
       <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+      <a href="https://www.prisma.io/" target="_blank"><img alt="Prisma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></a>
       <a href="https://sequelize.org/" target="_blank"><img alt="Sequelize" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>  
       <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></a>
    </p>
@@ -85,9 +84,8 @@
    <summary>Ｄｅｐｌｏｙｍｅｎｔ</summary>
    <p align="left">
       <a href="https://docs.docker.com/" target="_blank"><img alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
-      <a href="https://railway.app/" target="_blank"><img alt="Railway" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /></a>
-      <a href="https://vercel.com/" target="_blank"><img alt="Vercel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" /></a>
-      <a href="https://www.heroku.com/" target="_blank"><img alt="Heroku" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" /></a>
+      <a href="https://vercel.com/" target="_blank"><img alt="Vercel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></a>
+      <a href="https://railway.app/" target="_blank"><img alt="Railway" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" /></a>
    </p>
 </details>
 
@@ -106,23 +104,23 @@
 <hr>
 
 <details>
-   <summary>𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗱 𝗺𝘆 𝗰𝗼𝗺𝗺𝗶𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀</summary>
+   <summary>𝗖𝗼𝗺𝗺𝗶𝘁 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀</summary>
    <p>I try to use a style of semmantic commit messages for all of my commits in my repo~</p>
-   Format: <code>type(optional scope): subject</code>
+   Format: <code>category(optional scope or module): message</code>
    <br/>
    <br/>
    <ul align = "left">
-      <li><code>feat:</code> new feature for the user, not a new feature for build script</li>
-      <li><code>fix:</code> bug fix for the user, not a fix to a build script</li>
-      <li><code>docs:</code> changes to the documentation</li>
-      <li><code>style:</code> formatting, missing semi colons, etc; no production code change</li>
-      <li><code>refactor:</code> refactoring production code, eg. renaming a variable</li>
-      <li><code>test:</code> adding missing tests, refactoring tests; no production code change</li>
-      <li><code>chore:</code> updating grunt tasks etc; no production code change</li>
-      <li><code>build:</code> update for the build script, not a new update for the user</li>
-      <li><code>q:</code> Random, misc or comment messages for other branches</li>
+      <li><code>feat / feature:</code> all changes that introduce completely new code or new features</li>
+      <li><code>fix:</code> changes that fix a bug (ideally will additionally reference an issue if present)</li>
+      <li><code>refactor:</code> any code related change that is not a fix or a feature</li>
+      <li><code>docs:</code> changing existing or creating new documentation (i.e. README, docs for usage of a lib or cli usage)</li>
+      <li><code>build:</code> all changes regarding the build of the software, changes to dependencies or the addition of new dependencies</li>
+      <li><code>test:</code> all changes regarding tests (adding new tests or changing existing ones)</li>
+      <li><code>ci:</code> all changes regarding the configuration of continuous integration (i.e. github actions, ci system)</li>
+      <li><code>chore:</code> all changes to the repository that do not fit into any of the above categories</li>
    </ul>
-   <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716" target="_blank">Additional references here!</a>
-</details>
+      e.g. <code>feat(components): add new prop to the avatar component</code>
+
+   If you are interested in the detailed specification you can visit <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">conventionalcommits.org</a> or check out <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular Commit Message Guidelines.</a>
 
 
