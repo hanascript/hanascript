@@ -24,8 +24,8 @@
 
 <strong>✧˖°.⁺‧˚ Collaborate ˚‧⁺ ✧˖°.</strong>
 
-- I'm looking to collaborate on full stack web development projects using Typescript
-- Please feel free to reach out to me at nate31196@outlook.com
+- I'm looking to collaborate on full stack web development projects. 
+- I'm open to any stack so please feel free to reach out! 
 
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
