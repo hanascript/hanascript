@@ -6,7 +6,6 @@
 <!-- Social Badge Section -->
 <p align="center">
 <a href="https://www.linkedin.com/in/nathaniel-marcellous/"><img alt="Linkedin" src="https://img.shields.io/badge/Nathaniel_Marcellous-FACCCE?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-<a href="https://twitter.com/Tabu_Hana9"><img alt="Twitter" src="https://img.shields.io/badge/@Tabu_Hana9-FACCCE?&style=for-the-badge&logo=twitter&logoColor=black"></a>
 <a href="mailto:nate31196@outlook.com"><img alt="Email-Me" src="https://img.shields.io/badge/nate31196@outlook.com-FACCCE?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
 
