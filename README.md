@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 <strong>⁺˖ ⸝⸝ About Me ⸝⸝ ⁺˖</strong>
 
-- My name is Nathan
+- I go by Nathan
 - I live in California
 - My favorite games is League of Legends & Majora's Mask
 
