@@ -11,21 +11,21 @@
 </p>
 
 <!-- About Me Section -->
-<strong> ʚɞ ⁺˖ ⸝⸝ About Me ⸝⸝ ⁺˖ ʚɞ </strong>
+<strong>⁺˖ ⸝⸝ About Me ⸝⸝ ⁺˖</strong>
 
-- I also go by Tabu or @TabuHana on here
+- My name is Nathan
 - I live in California
-- I'm an anime & league of legends enjoyer
+- My favorite games is League of Legends & Majora's Mask
 
-<strong>✧･ﾟ: *✧･ﾟ:* Career Goals *:･ﾟ✧*:･ﾟ✧</strong>
+<strong>⁺˖ ⸝⸝ Career Goals ⸝⸝ ⁺˖</strong>
 
-- Building my skills as a programmer with a focus on web dev
-- A professional web dev role at an established company
+- Joining a team at a established company
+- Building my skills as a programmer and becoming a professional developer
 
-<strong>✧˖°.⁺‧˚ Collaborate ˚‧⁺ ✧˖°.</strong>
+<strong>⁺˖ ⸝⸝ Collaborate ⸝⸝ ⁺˖</strong>
 
-- I'm looking to collaborate on full stack web development projects. 
-- I'm open to any stack so please feel free to reach out! 
+- I'm looking to collaborate on full-stack projects
+- Mainly JS/TS, however open to all stacks!
 
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
@@ -45,7 +45,7 @@
 <hr>
 
 <!-- Dev tools Section -->
-### Wheres what I do ₊‧.°.⋆˚₊‧⋆.
+### ⁺˖ ⸝⸝ Heres what I use ⸝⸝ ⁺˖
 
 <details>
    <summary>𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</summary>
@@ -105,7 +105,7 @@
 
 <details>
    <summary>𝗖𝗼𝗺𝗺𝗶𝘁 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀</summary>
-   <p>I try to use a style of semmantic commit messages for all of my commits in my repo~</p>
+   <p>I try to use a style of <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">semmantic commit messages</a> for all of my commits in my repo</p>
    Format: <code>category(optional scope or module): message</code>
    <br/>
    <br/>
@@ -117,10 +117,7 @@
       <li><code>build:</code> all changes regarding the build of the software, changes to dependencies or the addition of new dependencies</li>
       <li><code>test:</code> all changes regarding tests (adding new tests or changing existing ones)</li>
       <li><code>ci:</code> all changes regarding the configuration of continuous integration (i.e. github actions, ci system)</li>
-      <li><code>chore:</code> all changes to the repository that do not fit into any of the above categories</li>
+      <li><code>z:</code> all changes to the repository that do not fit into any of the above categories</li>
    </ul>
       e.g. <code>feat(components): add new prop to the avatar component</code>
-
-   If you are interested in the detailed specification you can visit <a href="https://www.conventionalcommits.org/en/v1.0.0/" target="_blank">conventionalcommits.org</a> or check out <a href="https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines" target="_blank">Angular Commit Message Guidelines.</a>
-
-
+      
