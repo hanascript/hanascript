@@ -49,6 +49,7 @@
 <details>
    <summary>𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</summary>
    <p align="left">
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="hanascript.svg" alt="HanaScript Logo" width="50" height="50"/></a>
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
    </p>
