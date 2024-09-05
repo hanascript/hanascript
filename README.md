@@ -24,7 +24,7 @@
 <strong>⁺˖ ⸝⸝ Collaborate ⸝⸝ ⁺˖</strong>
 
 - I'm looking to collaborate on full-stack projects
-- Mainly JS/TS, however open to all stacks!
+- I specialize in JS/TS
 
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
