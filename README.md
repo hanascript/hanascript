@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-<h1> ✧˖°. Full-Stack Developer ˖⁺‧₊˚ 🐾 ˚₊‧⁺˖ 🐕🌸 </h1>   
+<h1> Full-Stack Developer</h1>   
 </div>
 
 <!-- Social Badge Section -->
@@ -10,22 +10,16 @@
 </p>
 
 <!-- About Me Section -->
-<strong>⁺˖ ⸝⸝ About Me ⸝⸝ ⁺˖</strong>
+<strong>About Me</strong>
 
 - I go by Nathan
-- I live in California
-- My favorite games is League of Legends & Majora's Mask
+- Based in California
+- I specialize in JS/TS
 
-<strong>⁺˖ ⸝⸝ Career Goals ⸝⸝ ⁺˖</strong>
+<strong>Career Goals</strong>
 
 - Joining a team at a established company
 - Building my skills as a programmer and becoming a professional developer
-
-<strong>⁺˖ ⸝⸝ Collaborate ⸝⸝ ⁺˖</strong>
-
-- I'm looking to collaborate on full-stack projects
-- I specialize in JS/TS
-
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
 
@@ -44,31 +38,30 @@
 <hr>
 
 <!-- Dev tools Section -->
-### ⁺˖ ⸝⸝ Heres what I use ⸝⸝ ⁺˖
+### What I use
 
 <details>
-   <summary>𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</summary>
+   <summary>Languages</summary>
    <p align="left">
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="hanascript.svg" alt="HanaScript Logo" width="50" height="50"/></a>
+<!--       <a href="https://www.typescriptlang.org/" target="_blank"><img src="hanascript.svg" alt="HanaScript Logo" width="50" height="50"/></a> -->
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/></a>
    </p>
 </details>
 
 <details>
-   <summary>ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</summary>
+   <summary>Frontend</summary>
    <p align="left">
       <a href="https://nextjs.org/" target="_blank"><img alt="NextJS" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
       <a href="https://react.dev/" target="_blank"><img alt="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
       <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwindcss" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>       
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
-      <a href="https://www.figma.com/" target="_blank"><img alt="Figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
    </p>
 </details>
 
 <details>
-   <summary>𝔹𝕒𝕔𝕜-𝔼𝕟𝕕 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥</summary>
+   <summary>Backend</summary>
    <p align="left">
       <a href="https://nodejs.org/en" target="_blank"><img alt="NodeJS" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
       <a href="https://expressjs.com/" target="_blank"><img alt="Express" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
@@ -81,7 +74,7 @@
 </details>
 
 <details>
-   <summary>Ｄｅｐｌｏｙｍｅｎｔ</summary>
+   <summary>Deployment</summary>
    <p align="left">
       <a href="https://docs.docker.com/" target="_blank"><img alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></a>
       <a href="https://vercel.com/" target="_blank"><img alt="Vercel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" /></a>
@@ -90,8 +83,9 @@
 </details>
 
 <details>
-   <summary>𝐸𝓋𝑒𝓇𝓎𝓉𝒽𝒾𝓃𝑔 𝐸𝓁𝓈𝑒</summary>
+   <summary>Tools</summary>
    <p align="left">
+      <a href="https://www.figma.com/" target="_blank"><img alt="Figma" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
       <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
       <a href="https://github.com/TabuHana" target="_blank"><img alt="Github" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
       <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></a>
