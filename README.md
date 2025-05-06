@@ -6,7 +6,7 @@
 <!-- Social Badge Section -->
 <p align="center">
 <a href="https://www.linkedin.com/in/nathaniel-marcellous/"><img alt="Linkedin" src="https://img.shields.io/badge/Nathan_Marcellous-FACCCE?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-<a href="mailto:nate31196@outlook.com"><img alt="Email-Me" src="https://img.shields.io/badge/nate31196@outlook.com-FACCCE?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="mailto:nathanm@hanascript.com"><img alt="Email-Me" src="https://img.shields.io/badge/nate31196@outlook.com-FACCCE?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
 
 <!-- About Me Section -->
@@ -14,12 +14,9 @@
 
 - I go by Nathan
 - Based in California
-- I specialize in JS/TS
+- I specialize in javascript & react
 
-<strong>Career Goals</strong>
-
-- Joining a team at a established company
-- Building my skills as a programmer and becoming a professional developer
+- I'm very active! Most of my repos are private.
 <img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
 <hr>
 
