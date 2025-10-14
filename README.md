@@ -1,12 +1,13 @@
 <!-- Banner Section -->
 <div align="center">
-<h1> Full-Stack Developer</h1>   
+   <img src="./hanascript-site-background.png" alt="Github Banner" width="800">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1500&color=E26352&center=true&vCenter=true&width=450&lines=Creating+responsive+websites;Building+solution-based+applications;Coding+and+learning+daily!" alt="Typing SVG" /></a>
 </div>
 
 <!-- Social Badge Section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/nathaniel-marcellous/"><img alt="Linkedin" src="https://img.shields.io/badge/Nathan_Marcellous-FACCCE?style=for-the-badge&logo=linkedin&logoColor=black"></a>
-<a href="mailto:hello@hanascript.com"><img alt="Email-Me" src="https://img.shields.io/badge/nathanm@hanascript.com-FACCCE?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="https://www.linkedin.com/in/nathan-marcellous/"><img src="https://custom-icon-badges.demolab.com/badge/Nathan_Marcellous-E26352?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>
+<a href="mailto:hello@hanascript.com"><img alt="Email-Me" src="https://img.shields.io/badge/hellow@hanascript.com-E26352?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
 
 <!-- About Me Section -->
@@ -14,10 +15,9 @@
 
 - I go by Nathan
 - Based in California
-- I specialize in javascript & react
+- I specialize in typescript & nextjs
 
-- I'm very active! Most of my repos are private.
-<img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=ff69b4">
+<img src="https://komarev.com/ghpvc/?username=tabuhana&style=for-the-badge&color=E26352">
 <hr>
 
 <!-- Cert Section -->
