@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-   <img src="./hanascript-site-background.png" alt="Github Banner" width="800">
+   <img src="./hanascript-banner.png" alt="Github Banner" width="800">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1500&color=E26352&center=true&vCenter=true&width=450&lines=Creating+responsive+websites;Building+solution-based+applications;Coding+and+learning+daily!" alt="Typing SVG" /></a>
 </div>
 
