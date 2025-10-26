@@ -7,7 +7,7 @@
 <!-- Social Badge Section -->
 <p align="center">
 <a href="https://www.linkedin.com/in/nathan-marcellous/"><img src="https://custom-icon-badges.demolab.com/badge/Nathan_Marcellous-E26352?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>
-<a href="mailto:hello@hanascript.com"><img alt="Email-Me" src="https://img.shields.io/badge/hellow@hanascript.com-E26352?style=for-the-badge&logo=gmail&logoColor=black"></a>
+<a href="mailto:hello@hanascript.com"><img alt="Email-Me" src="https://img.shields.io/badge/hello@hanascript.com-E26352?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
 
 <!-- About Me Section -->
